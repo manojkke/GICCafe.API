@@ -16,7 +16,9 @@ This project is a .NET 8.0 web application that uses MongoDB for data storage, M
 
 - Docker
 - Docker Compose
-- .NET SDK 8.0 (for local development, optional)
+- Mongo DB Compass
+- Visual Studio Latest version =
+- .NET SDK 8.0
 
 ### Domain-Driven Design(DDD)
 Domain-Driven Design(DDD) is a collection of principles and patterns that help developers craft elegant object systems. Properly applied it can lead to software abstractions called domain models. These models encapsulate complex business logic, closing the gap between business reality and code.
@@ -28,3 +30,7 @@ Domain-Driven Design(DDD) is a collection of principles and patterns that help d
 ```bash
 git clone https://github.com/manojkke/GICCafe.API.git
 cd your-repo-name
+
+```bash
+### 2. Run docker compose for Mongo DB 
+docker-compose up --build
