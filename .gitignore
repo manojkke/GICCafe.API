@@ -34,12 +34,6 @@
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
-# Docker
-docker-compose.override.yml
-Dockerfile
-Dockerfile.*.dev
-docker-compose.yml
-
 # Visual Studio Code
 .vscode/
 *.code-workspace
