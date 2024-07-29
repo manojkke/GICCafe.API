@@ -1,4 +1,4 @@
-# GIC Assignment - Manoj -  APIs 
+# GIC Assignment Backend APIs 
 
 ## Cafe Management Using : .NET 8.0 , MongoDB , XUnit, MediatR for CQRS and DDD  
  
