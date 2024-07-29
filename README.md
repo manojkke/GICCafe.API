@@ -25,12 +25,12 @@ Domain-Driven Design(DDD) is a collection of principles and patterns that help d
 
 ## Setup and Running
 
-### 1. Clone the Repository
+### 1. Clone the Repository and run mongo using docker 
 
 ```bash
 git clone https://github.com/manojkke/GICCafe.API.git
-cd your-repo-name
 
-```bash
-### 2. Run docker compose for Mongo DB 
+
+cd GICCafe.API
+
 docker-compose up --build
