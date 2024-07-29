@@ -1,8 +1,8 @@
-# .NET 8.0 MongoDB Project
-GIC Cafe and Employee Assignment :
+# GIC Cafe Assignment APIs : .NET 8.0 , MongoDB , XUnit CQRS and DDD  
 
 
-This project is a .NET 8.0 web application that uses MongoDB for data storage, MediatR for CQRS (Command Query Responsibility Segregation) pattern, and Docker for containerization. It includes CRUD operations for employees and cafes, along with query endpoints and MongoDB seeding.
+
+This project is a .NET 8.0 web application that uses MongoDB for data storage, MediatR for CQRS (Command Query Responsibility Segregation) pattern, and Docker for containerization. It includes CRUD operations for employees and cafes in DDD pattern , along with query endpoints and MongoDB seeding.
 
 ## Project Structure
 
